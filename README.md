@@ -1,6 +1,6 @@
 # pet-shop-tutorial
 
-Truffle pet-shop tutorial with mior changes to the code.
+Truffle pet-shop tutorial with minor changes to the code.
 
 ## Prerequsites
 
